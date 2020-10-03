@@ -1,0 +1,1 @@
+flag{its_time_to_hack}

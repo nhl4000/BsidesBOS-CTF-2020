@@ -1,0 +1,293 @@
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+0
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+0
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+1
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+2
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+3
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+4
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+5
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+6
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+7
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0008
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0009
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+8
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+9
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+10
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+11
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+12
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+13
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+14
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+15
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0018
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0019
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+16
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+17
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+18
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+19
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+20
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+21
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+22
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+23
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0028
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0029
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+24
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+25
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+26
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+27
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+28
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+29
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+30
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+31
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0038
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0039
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+32
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+33
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+34
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+35
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+36
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+37
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+38
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+39
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0048
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0049
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+40
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+41
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+42
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+43
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+44
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+45
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+46
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+47
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0058
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0059
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+48
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+49
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+50
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+51
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+52
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+53
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+54
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+55
+What year do YOU think the world will end?
+Traceback (most recent call last):
+  File "/home/challenge/server.py", line 4, in <module>
+    end = input()
+  File "<string>", line 1
+    0069
+       ^
+SyntaxError: invalid token
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+56
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+58
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+59
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+60
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+61
+What year do YOU think the world will end?
+Yeah! I agree with you! I also think the world will end in the year 
+62

@@ -1,0 +1,6 @@
+#!/bin/bash
+touch f.txt
+for i in {0000..9999}
+do
+    echo "$i" | nc challenge.ctf.games 31656 >> f.txt
+done

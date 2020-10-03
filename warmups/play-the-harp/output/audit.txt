@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Sep 26 13:20:58 2020
+Invocation: foremost -i harp.jpg 
+Output directory: /root/Desktop/BsidesBOS-CTF/warmups/play-the-harp/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: harp.jpg
+Start: Sat Sep 26 13:20:58 2020
+Length: 280 KB (286799 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     139 KB 	          0 	 
+1:	00000280.jpg 	     139 KB 	     143651 	 
+Finish: Sat Sep 26 13:20:58 2020
+
+2 FILES EXTRACTED
+	
+jpg:= 2
+------------------------------------------------------------------
+
+Foremost finished at Sat Sep 26 13:20:58 2020

